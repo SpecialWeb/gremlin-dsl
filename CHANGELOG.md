@@ -1,3 +1,5 @@
+### [1.0.1](https://github.com/SpecialWeb/gremlin-dsl/compare/v1.0.0...v1.0.1) (2022-10-05)
+
 ## [1.0.0](https://github.com/SpecialWeb/gremlin-dsl/compare/v0.5.0...v1.0.0) (2022-10-05)
 
 
@@ -32,11 +34,4 @@
 ### Bug Fixes
 
 * loader should not redeclare function ([30159ce](https://github.com/SpecialWeb/gremlin-dsl/commit/30159ce64a13a284e0e5beda5dd4dbd0dc880211))
-
-## [0.4.0](https://github.com/SpecialWeb/gremlin-dsl/compare/v0.3.0...v0.4.0) (2020-10-05)
-
-
-### Features
-
-* add all graph traversal functions as global functions ([5829e54](https://github.com/SpecialWeb/gremlin-dsl/commit/5829e54dc63d50f6182ada0f1846db134c161696))
 

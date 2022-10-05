@@ -1,3 +1,15 @@
+## [1.0.0](https://github.com/SpecialWeb/gremlin-dsl/compare/v0.5.0...v1.0.0) (2022-10-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* move to new maintainer namespace
+
+### Features
+
+* move to new maintainer namespace ([036d476](https://github.com/SpecialWeb/gremlin-dsl/commit/036d4765bd2003300d4c2b8e641684c4b66de128))
+* **tinkerpop:** regenerate with tinkerpop 3.6.1 ([527b647](https://github.com/SpecialWeb/gremlin-dsl/commit/527b6476252be19355b5741d808ce33dfa7302da))
+
 ## [0.5.0](https://github.com/SpecialWeb/gremlin-dsl/compare/v0.4.2...v0.5.0) (2021-02-19)
 
 
@@ -27,12 +39,4 @@
 ### Features
 
 * add all graph traversal functions as global functions ([5829e54](https://github.com/SpecialWeb/gremlin-dsl/commit/5829e54dc63d50f6182ada0f1846db134c161696))
-
-## [0.3.0](https://github.com/SpecialWeb/gremlin-dsl/compare/v0.2.2...v0.3.0) (2020-09-25)
-
-
-### Features
-
-* add gremlin UUID helper as reserved keyword ([a44b98c](https://github.com/SpecialWeb/gremlin-dsl/commit/a44b98cc1dd2e3262c59e962ac934e1e8cb5d7e0))
-* add raw and assign step ([0470e05](https://github.com/SpecialWeb/gremlin-dsl/commit/0470e05b54e5f7f3af0b5bd41956cb62d5965e22))
 
